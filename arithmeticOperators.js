@@ -21,3 +21,4 @@ console.log(num1 ** num2);
 
 //Modulo
 console.log(num1 % num2);
+
